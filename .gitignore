@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.blend
+*.blend1
+*.blend2
+dist/
+.vscode/
+.idea/
+Thumbs.db
