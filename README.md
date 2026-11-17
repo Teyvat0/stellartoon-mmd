@@ -59,7 +59,7 @@ StellarToon 是给游戏解包模型做的着色器，直接给 MMD 模型用需
 | **StellarToon 模板 .blend** | 包含 StellarToon 材质和节点组的 .blend 文件，例如 HoyoToon-Assets 里的 `StellarToon-MMD-fix.blend`。要求见下方。 |
 | **角色资源文件夹** | 某个角色的游戏材质 JSON 和贴图，结构如下。 |
 | **面部阴影贴图文件夹**（推荐） | 通用的 `W_170_Lady_FaceMap_00.png`、`M_180_Male_FaceMap_00.png` 等。很多角色文件夹里没有自带这张图。 |
-| **MMD 模型** | 星穹铁道角色的 PMX 模型，贴图需要是游戏原版 UV 的（大部分官方/解包改的 MMD 模型都是）。 |
+| **MMD 模型** | 星穹铁道角色的 PMX 模型，贴图需要是游戏原版 UV 的（大部分官方的 MMD 模型都是）。 |
 
 ### 模板 .blend 的要求
 
